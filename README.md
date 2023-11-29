@@ -7,3 +7,5 @@ This is a simple and stylish calendar web app built using HTML, CSS, and JavaScr
 - Intuitive navigation: Easily switch between months and years.
 - Highlight for the current day.
 - Responsive design: Works well on various screen sizes.
+
+Please refer to https://sumusa.github.io/simple-calendar-app/
