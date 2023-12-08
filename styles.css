@@ -94,3 +94,8 @@ button:hover {
     background-color: #8B4513;
     color: #fff;
 }
+
+.prev-date {
+    color: rgb(163, 153, 153);
+    /* background-color: #8b451352 ; */
+}
