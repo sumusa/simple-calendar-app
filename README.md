@@ -2,6 +2,8 @@
 
 This is a simple and stylish calendar web app built using HTML, CSS, and JavaScript. The app allows users to navigate through months, select different years, and view the days of the month.
 
+![Simple calendar app](calendar.png)
+
 ## Features
 
 - Intuitive navigation: Easily switch between months and years.
